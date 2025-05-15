@@ -183,3 +183,4 @@ app.listen(PORT, (error) => {
   }
   console.log(`Escuchando en el puerto ${PORT}`);
 });
+export default app
